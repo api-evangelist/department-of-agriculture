@@ -1,0 +1,65 @@
+{
+    "name": "Department of Agriculture",
+    "description": "USDA is committed to providing safe and nutritious food, conservation, sustainable food production and revitalizing rural America.Comment Policy: http:\/\/www.usda.gov\/newmedia",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11176-department-of-agriculture.jpg",
+    "tags": [
+        "api provider",
+        "data json",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/department-of-agriculture\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Department of Agriculture",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11176-department-of-agriculture.jpg",
+            "humanURL": "http:\/\/www.usda.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-agriculture-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/search.ams.usda.gov\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/united-states-department-of-agriculture"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.usda.gov\/wps\/portal\/usda\/usdahome?navid=USDA_DEVELOPER"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@oc.usda.gov"
+        },
+        {
+            "type": "Email",
+            "url": "Marj.Leaming@ocio.usda.gov"
+        },
+        {
+            "type": "Email",
+            "url": "USDAPrivacy@ocio.usda.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/USDA"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.usda.gov"
+        }
+    ]
+}
